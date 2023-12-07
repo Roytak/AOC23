@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-std=c11 -Wall -Wextra -g
+CFLAGS=-std=c11 -Wall -Wextra -O3
 
 all: 7a 7b
 
